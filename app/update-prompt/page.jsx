@@ -57,6 +57,10 @@ const EditPrompt = () => {
       setSubmitting(false);
     }
   };
+  if (!promptId) {
+    // Render loading state or handle error when promptId is not available
+    return <div>Loading...</div>;
+  }
   return (
     <Form
       type="Edit"
