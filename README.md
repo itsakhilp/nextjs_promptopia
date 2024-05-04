@@ -1,4 +1,4 @@
-## Next.js 14 Prompt Sharing Application
+## Next.js 14 Prompt Sharing App
 
 Application that highlights the key features of Next.js along with a comprehensive CRUD Prompt sharing system utilizing a MongoDB database and implementing NextAuth authentication.
 
